@@ -2,7 +2,7 @@
 
 🚀 Currently diving into Web Development 💻
 
-🐍 Have experience with Python
+🐍 Have Knowledge of Python
 
 ☕ Know the basics of Java & C
 
