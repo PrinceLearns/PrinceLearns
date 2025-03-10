@@ -1,11 +1,29 @@
-👋 Hey there! I'm Prince
+# Hi, I'm Prince Parmar! 👋
 
-🚀 Currently diving into Web Development 💻
+Welcome to my GitHub profile! I'm passionate about learning and building cool projects. Here's a little about me:
 
-🐍 Have Knowledge of Python
+## 🚀 About Me
 
-☕ Know the basics of Java & C
+- **Name**: Prince Parmar
+- **Current Focus**: Web Development 💻
+- **Languages I Know**:
+  - Python 🐍
+  - Basics of Java ☕
+  - Basics of C
+- **What I'm Learning**: Web development (HTML, CSS, JavaScript, and more!)
+- **Always Learning**: I enjoy diving into new topics and building projects to enhance my skills.
 
-📚 Always learning & building cool projects!
+## 🌱 What I'm Working On
 
-✨ Let's connect and code together!
+- Building cool and interactive websites
+- Exploring AI & automation 🤖
+
+## 💬 Let's Connect
+
+- Feel free to check out my repositories and contribute!
+
+---
+
+**"Learning is a never-ending journey. Let's code together!"**
+
+Thanks for visiting my profile! 👨‍💻🚀
